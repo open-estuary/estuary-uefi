@@ -1,0 +1,6 @@
+1. hpm file is used in BMC.
+
+2. fd file is used in Embedded Boot Loader(EBL) mode .
+e.g.:
+provision 192.168.1.107 -u sch -p aaa -f UEFI_D05.fd -a 0x100000
+spiwfmem 0x100000 0x0000000 0x300000
