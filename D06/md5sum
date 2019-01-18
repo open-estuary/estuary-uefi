@@ -1,9 +1,10 @@
 
-md5sum d06-bios-b20-v801.hpm
-ad17dfaaa36812e41b2f1f6f654d0308  d06-bios-b20-v801.hpm
+md5sum d06-bios-b19-v303.hpm
+f1687b9612fe7515f80f1e50a0c750fb  d06-bios-b19-v303.hpm
 
-md5sum d06-bmc-b20-v285.hpm
-f9c2c0c95a353915d369933ed583a91a  d06-bmc-b20-v285.hpm
+md5sum d06-bmc-b19-v285.hpm
+f9c2c0c95a353915d369933ed583a91a  d06-bmc-b19-v285.hpm
 
-md5sum d06-cpld-b20-v108.hpm
-58d455fca04afa07afde4e6ae5ecd653  d06-cpld-b20-v108.hpm
+md5sum d06-cpld-b19-v107.hpm
+63649d4445895a4fb07d6d65545cd80a  d06-cpld-b19-v107.hpm
+
